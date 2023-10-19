@@ -44,7 +44,7 @@
 			</plugin>
 		</plugins>
 	</build>
-<packaging>${packaging.type}</packaging>	
+<!--<packaging>${packaging.type}</packaging>	
 <profiles>
    <profile>
        <id>jar</id>
@@ -52,7 +52,7 @@
            <packaging.type>jar</packaging.type>
            <spring.profiles.active>dev</spring.profiles.active>
        </properties>
-   </profile>
+   </profile>-->
    <profile>
        <id>war</id>
        <properties>
