@@ -8,9 +8,6 @@
 		<version>2.3.8.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<activeProfiles>
-  		<activeProfile>war</activeProfile>
-	</activeProfiles>
 	<groupId>polyglot.com</groupId>
 	<artifactId>FirstDevopsJob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
