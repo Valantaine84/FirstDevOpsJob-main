@@ -11,7 +11,7 @@
 	<groupId>polyglot.com</groupId>
 	<artifactId>FirstDevopsJob</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>FirstDevopsJob</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
